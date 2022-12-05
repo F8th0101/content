@@ -1293,7 +1293,7 @@
             </div>
             
             <pb n="3"/>
-            <pb/>   
+               
             <div type="page" n="3">
                 <p>TO-DAY'S TELEGRAMS.</p>
                 <p>THE WAR.</p>
@@ -1773,10 +1773,7 @@
                 
               
             </div>
-            <pb/>
-            <pb/>
-            <pb/>
-            <pb/>
+            
             
             <pb n="4"/>   
             <div type="page" n="4">
@@ -1795,7 +1792,9 @@
                         Sources.</p>
                     <p>Drafts Issued on Paris, Berlin, Amsterdam, Antwerp, New York and
                         Montreal.</p>
-                    <p>LONDON &amp; PARIS EXCHANGE,</p>
+                </div>
+                <div type="item">
+                    <head>LONDON &amp; PARIS EXCHANGE,</head>
                     <p>Limited</p>
                     <p>GENERAL BANKERS.</p>
                     <p>Head Office- Basildon House, Bank, London, England</p>
@@ -1808,7 +1807,7 @@
             <pb n="5"/>   
             <div type="page" n="5">
                 <cb></cb>
-                <p>Our Paris Letter.</p>
+                <head>Our Paris Letter.</head>
                 <p>( FROM OUR OWN CORRESPONDENT ).</p>
                 <p>PARIS, November 22. Though we are a good month off Christmas, there are
                     multifarious signs of it in the air. The toy merchants of the pavement are
@@ -1966,7 +1965,9 @@
                     <p>Messrs. Tancred Bonnici &amp; Co., Port-Said.</p>
                     <p>The Patisserie de la Bourse, Rue Cherif Pasha Alexandria.</p>
                     <p>Manufactory: London, England.</p>
-                    <p>EGYPTIAN GOLD MINING.</p>
+                </div>
+                <div type="item">
+                    <head>EGYPTIAN GOLD MINING.</head>
                     <p>THE MYSORE CO. IN EGYPT.</p>
                     <p>The report of the Mysore Reefs for the year ended September 30 states that
                         shortly after the last general meeting the Um Rus Gold Mines of Egypt was
@@ -2061,10 +2062,11 @@
                         whatever will be made. Letters in reply to advertisements will be posted to
                         any address if a few stamps are sent by the advertiser to cover postage.</p>
                     <div type="item">
-                        <p>AGARD'S INTERNATIONAL INDUSTRIES AND TRADE MARKS REGISTER. – A useful
+                        <head>AGARD'S INTERNATIONAL INDUSTRIES AND TRADE MARKS REGISTER. </head>
+                           <p>– A useful
                             business directory containing addresses of all important business firms of
                             Great Britain the Continent, and Egypt. Circulating all over Europe and
-                            America. Price— One pound Sterling. Post Free.</p>
+                            America. Price— One pound Sterling. Post Free.</p> 
                         <p>AGARD'S INTERNATIONAL HOTEL GUIDE sent post free to all first class
                             Hotels throughout Europe, America, the Colonies and Egypt. The best
                             reference book for travellers.</p>
@@ -2075,7 +2077,9 @@
                         <p>BORMAN &amp; DORMAN &amp; Co. have just received a farther new assortment
                             of Winter Cloth, Suits to measure from P.T. 250, Overcoats P.T. 250.
                             Inspection invited. Cherif Pasha Street. 2497 4-6-2</p>
-                        <p>EXPERIENCED COOK,</p>
+                    </div>
+                        <div type="item">
+                        <head>EXPERIENCED COOK,</head>
                         <p>speaking English, Greek, and Turkish, seeks situation. Good references
                             Apply to Anglo-American Stores, Boulevard de Remich, Alexandria.</p>
                         <p>24975-6-9</p>
@@ -2120,7 +2124,7 @@
                 
             <pb n="6"/>   
             <div type="page" n="6">
-                    <p>CANAL DE SUEZ.</p>
+                    <head>CANAL DE SUEZ.</head>
                     <p>24 novembre Gleklogan; nay. ang. de Londres pour Hong-Kong Yorkshire ; nay
                         ang. de Marseille pour Colombo Birch or; nav, ang. de Kurrachée pour
                         Baroelone Prome; nay ang. de Kurrachée pour Liverpool Mpanjaka; nav. franç.
@@ -2149,7 +2153,9 @@
                         Blostiostohy; ,, Torpilletur Bistry; Almaz; Sissoy Veliki; Navarin ;
                         Jemtohouk ; Svetlana; Japiter ; Kitar, Kiew; Vladimie; Frs. 8,619,074.82</p>
                     <p>Municipalité d'Alexandrio</p>
-                    <p>AVIS</p>
+            </div>
+                <div type="item">   
+                <head>AVIS</head>
                     <p>Le Mardi 29 courant de 11 h. a.m. à 1 h. p.m. of de 8 h. a m. au coucher du
                         soleil la Municipalité procédera à la vente aux enchères publiques près don
                         cimetières Européens à la Porte-Rosette, d'ano quantité de 2,200 m. environ
@@ -2201,7 +2207,9 @@
                         offres et au plus tard le 20 décembre 1904 s midi.</p>
                     <p>L'Administrateur,</p>
                     <p>(Sigaó) W. P, CHATAWAY. Alexandrie, le 29 Novembre 1904. 24,978.8.1</p>
-                    <p>NOTICE.</p>
+                </div>
+                <div type="item">
+                    <head>NOTICE.</head>
                     <p>The Editor of the Egyptian Gazette will be pleased to receive communications
                         dealing with matters of local interest, for publication. Noten of events
                         occurring in the Provinces are especially welcome. All communications should
@@ -3278,7 +3286,9 @@
                         Conserve le teint frais et la taille svelte ; d'une efficacité absolue agit
                         <lb/> sans douleurs. Il es conseillé par toutes les sommités<lb/> medicales.
                         Le purgatif le plus économique.</p>
-                    <p>PURGEN</p>
+                </div>
+                    <div type="item">
+                    <head>PURGEN</head>
                     <p>Prix 1.50 pour 12 purgations. Se trouve dans toutes les pharmacies.</p>
                     <p>Dépôt général pour l'Égypte GEO. BUELENEG, Pharamcien, Alexandrie.
                         <measure type="indexNo">25-1-05</measure></p>

@@ -1997,9 +1997,7 @@
                 <div type="page" n="4"> 
                     <div type="item">
                         
-               <!-- add 1-3 clumn story -->
-                    <p>Le</p>
-                    <p>e Règlement sur les Constructions</p>
+               <head>e Règlement sur les Constructions</head>
                     <p>Dispositions Sanitaires</p>
                     <p>Le règlement sur les constructions divise les quartiers de la ville en 8
                         zones.</p>
@@ -2118,9 +2116,10 @@
                         Ramleh et de Mohar- rem Bey, situés dans la lère zone,et sur la ués dans la
                         lo rive gsuche du Mahmou lieh; en outre cette autorisation pourra être
                         retirée si Vautorité sanitaire le juge nécessaire. (Résumé du Règlement sur
-                        les construc-</p>
-                    <p>tions).</p>
-                    <p>Annonces Erronees Traduction)</p>
+                        les constructions).</p>
+                    </div>
+                    <div type="item">  
+                    <head>Annonces Erronees Traduction</head>
                     <p>Monsieur le Directeur</p>
                     <p>de l'Egyptian Gazette.</p>
                     <p>Oher Monsieur,</p>
@@ -2135,49 +2134,35 @@
                         l'attention de vos lecteurs dans votre prochain nu- méro, puisque le seul
                         journal ou j'insère L des avis en ce moment est l'Egyptian</p>
                     <p>Gazette.</p>
-                    <p>0</p>
-                    <p>Bien à vous</p>
+                                        <p>Bien à vous</p>
                     <p>N. E. TAMVACO.</p>
                     <p>Alexandrie, 26 Novembre.</p>
-                    <p>B</p>
-                    <p>D</p>
-                    <p>P.S. L'Egypte n'est pas autorisée par moi, ni, que je sache, par MM. Cory A
+                                        <p>P.S. L'Egypte n'est pas autorisée par moi, ni, que je sache, par MM. Cory A
                         Brothers &amp; Co. Ltd., agents de la "Oity E Line" à Port-Said, à publier
                         des annonces R concernant nos compagnies respectives. E</p>
-                    <p>N.E. T.</p>
-                    <p>N</p>
-                    <p>B</p>
-                    <p>B</p>
-                    <p>BULLETIN DE LA BOURSE</p>
-                    <p>T</p>
-                    <p>V</p>
-                    <p>V</p>
-                    <p>K</p>
-                    <p>O</p>
-                    <p>(Aujourd'hui à midi et demi)</p>
-                    <p>THE 1</p>
-                    <p>A</p>
+                   
+                    </div>
+                    <div type="item">
+                    <head>BULLETIN DE LA BOURSE</head>
+                    
                     <p>Le marché des valeurs est en hausse sur toute la ligne excepté sur les Eaux
                         du Caire et v la Ramleh Railway qui sont en réaction, les premières à 1115
                         acheteurs et la seconde o a8 1/4.</p>
                     <p>La Delta Land monte à 3 11/16, la Crown Brewery à 225, la Brasserie des
                         Pyramides à 128, la Pressage à 36 3/4, les Eaux d'Alexan- drie à 17 5/8 et
                         la Delta Light à 14 7/8.</p>
-                    <p>Si</p>
-                    <p>A</p>
-                    <p>F</p>
-                    <p>Be</p>
+                  
                     <p>En hausse également les Cotton Mills de 8/6 à 9/3 vendeurs et 9 acheteurs,
                         les Markets de G 26 à 26/3 vendeurs et la Salt &amp; Soda de 3816 F à 39
                         acheteurs.</p>
-                    <p>W</p>
-                    <p>A</p>
-                    <p>34</p>
+                   
                     <p>Mais la valeur qui a eu les honneurs de la Ce matinée est la Banque
                         d'Athènes. Elle a dé- F buté dès l'ouverture à 135 pour clôturer à 134
                         vendeurs. On a échangé 3 ou 4000 titres. Le marché est ferme avec tendance à
                         la hausse.</p>
-                    <p>PASSENGER LISTS.</p>
+                    </div>
+                    <div type="item">
+                    <head>PASSENGER LISTS.</head>
                     <p>ARRIVALS.</p>
                     <p>Le paquebot Congo des Messageries Mariti- mes arrivé ce matin avait à
                         bord:</p>
@@ -2195,7 +2180,9 @@
                         Cormat, Mme Jouanne, M. L. Pierre, Pères Chalamant, Grange, Bouin, Agor,
                         Steurs Etienne, Félicité, Mime Bianco" et 38 passagers de 3me et 4me
                         classe.</p>
-                    <p>ALDERSON'S GARDEN, BULKELEY.</p>
+                    </div>
+                    <div type="item">
+                    <head>ALDERSON'S GARDEN, BULKELEY.</head>
                     <p>Friday, December 8, at 4 p.m.</p>
                     <p>GRAND VARIETY ENTERTAINMENT</p>
                     <p>ROYAL TOOKEY FAMILY. Concluding with the Comic Sketch" "THE MADMAN."</p>
@@ -2204,7 +2191,9 @@
                     <p>British Garrison with their families and officers of mercantile marine in
                         harbour and holders of permits are invited.</p>
                     <p>34080-3-3</p>
-                    <p>ASTERN TELEGRAPH CO. LTD</p>
+                    </div>
+                    <div type="item">
+                    <head>ASTERN TELEGRAPH CO. LTD</head>
                     <p>VERAGE TIM coupied in transmission J Bryutian telegrams from gland to Alman
                         Monsy, 2?th November, 1904.</p>
                     <p>OUTWARDS.</p>
@@ -2214,7 +2203,9 @@
                     <p>scherter</p>
                     <p>Delay due to defeative landlines</p>
                     <p>1.00</p>
-                    <p>MOUVEMENT MARITIME</p>
+                    </div>
+                    <div type="item">
+                    <head>MOUVEMENT MARITIME</head>
                     <p>DU PORT D'ALEXANDRIE</p>
                     <p>ARRIVEES</p>
                     <p>27 novembre</p>
@@ -2228,8 +2219,7 @@
                         Baili."</p>
                     <p>Londres et Malté; 4j, vap. ang. Asistio Prince cap. Bale, ton. 1,881, &amp;
                         Graod &amp; Co.</p>
-                    <p>ift</p>
-                    <p>28 novembre</p>
+                            <p>28 novembre</p>
                     <p>Trieste et Brindisi; 60 h., váp. autr. Cleopatra, cap Ivelliob, toh. 2,182,
                         an Lloyd Autrichien.</p>
                     <p>Gênes et Mesrine; 8 j. 1/4, vap. ital. Po, capitaine Sivori, ton. 1,882, à la
@@ -2289,7 +2279,9 @@
                         d'Alexandrie p. Mer Bouge Trantenfels; vap. all. de Calcutta p. New-York
                         Bamtay; vap. ang. de Port-Saïd p. Calottia ollegian; vap. ang. de Caloutta
                         p. Londres Belous; vap ang. de Liverpool p. China Fr. 7,508,725,15.</p>
-                    <p>STOCKS AND SHARES</p>
+                    </div>
+                    <div type="item">
+                        <head>STOCKS AND SHARES</head>
                     <p>hahaah 10 7 1609 and tere s</p>
                     <p>Closing Prices, to-day at 1 p.m.</p>
                     <p>BANKS.</p>
@@ -2373,8 +2365,244 @@
                     
                 
                 <pb n="5"/>
-            <div type="page" n="5"> </div>
-                    <!-- add 1-3 clumn story -->
+            <div type="page" n="5">
+                                <p>EGYPTIAN COTTON.</p>
+                <p>MANCHESTER OPINION.</p>
+                <p>The Manchester Guardian, of the 11th inst.. marks:</p>
+                <p>The present conditions of the Egyptian market and the relative values of Egyptian
+                    and american cotton are attracting considerable</p>
+                <p>tention.</p>
+                <p>In some respects these conditions are quite abnormal. This is shown by a
+                    comparison of recent prices with those currently at the beginning of the season.
+                    For the sake uniformity the Egyptian prices are given in and decimal
+                    fractions:---</p>
+                <p>Futures.</p>
+                <p>yptian-F.G.F.</p>
+                <p>merican-Mid...</p>
+                <p>difference between Egyptian and American.....</p>
+                <p>Oct. 1.</p>
+                <p>Nov. 5.</p>
+                <p>Sept. 1. Nov. Mar. Nov. Mar. Nov. Mar 7-9 7:29.....7-19 7-03.....8 14 N.-D. M.-A.
+                    N.-D. M.-A. N.-D. M.-A. 583 570.....544 543.....5'28 6:31</p>
+                <p>7-81</p>
+                <p>1.56 150.....1-75 160.....288 3.60</p>
+                <p>At the beginning of the season crop expectations ran as high as 7,000,000
+                    cantars. In a such as last season's crop of 6,508,947 cantars us a carry-over of
+                    69,000 cantars, left a ock in Alexandria on the 31st August last of 09,000
+                    cantars, despite profitable trade in gyptian yarns, lower prices seemed
+                    inevitable he trade acted accordingly, and contracted head for cotton very
+                    sparingly indeed. As the season developed, crop conditions deteriorated, and
+                    have continued to do so until quite well-informed houses no longer look for a
+                    larger top than 6 million cantars and some ever x million cantars. The holders
+                    and controllers Estocks in Egypt, from the natives to the financial
+                    institutions, have been unwilling ellers, with the result that Egyptian cotton
+                    has advanced both absolutely and in comparison ith American. The advance is
+                    larger than in Alexandria, whilst that market turn is well above the parity of
+                    the Liver Dol market. It is obvious, therefore, that this market has stood and
+                    presently stands at a disadvantage for attracting stocks.</p>
+                <p>Now the spinning conditions in England as regards Egyptian cotton are the exact
+                    contrary to those which obtained last season, having become so very
+                    unsatisfactory that spindles are being turned from Egyptian on to American
+                    cotton, and mills newly built for the production Egyptian yarn are similarly
+                    changing their tension in favor of American, more particularly in view of the
+                    brilliant prospects now enjoyed by spinners of that growth of cotton he
+                    immediate prospects, therefore, are for a consumption of Egyptian cotton
+                    considerably</p>
+                <p>The trade acted accordingly, and contracted for cotton very sparingly indeed. As
+                    the season developed crop conditions deteriorated, and have continued to do so
+                    until quite well-informed houses no longer look for a larger crop than 6 million
+                    cantars and some even six million cantars. The holders and controllers of stocks
+                    in Egypt, from the natives to the large financial institutions, have been
+                    unwilling sellers, with the result that Egyptian cotton has advanced both
+                    absolutely and in comparison with American. The advance is larger in the
+                    interior than in Alexandria, whilst that market in turn is well above the parity
+                    of the Liver- pool market. It is obvious, therefore, that this market has stood
+                    and presently stands at a disadvantage for attracting stocks.</p>
+                <p>Now the spinning conditions in England as regards Egyptian cotton are the exact
+                    contrary to those which obtained last season, having become so very
+                    unsatisfactory that spindles are being turned from Egyptian on to American
+                    cotton, and mills newly built for the production of Egyptian yarn are similarly
+                    changing their intention in favor of American, more particularly in view of the
+                    brilliant prospects now enjoyed by spinners of that growth of cotton. The
+                    immediate prospects, therefore, are for a consumption of Egyptian cotton
+                    considerably less than that of last season. In due time, doubtless, the law of
+                    supply and demand will assert itself, and probably when Egypt endeavors to
+                    realize a considerable recession from present prices will ensue. Meantime the
+                    Liver- pool market is interested in the fact that the high prices of Egyptian
+                    cotton have provoked a considerable line of "straddles''--by sale of Egyptian
+                    and purchase of American cotton,- an operation which so far has proved unprofit-
+                    able by the continuous widening of Egyptian from American cotton. As concerns
+                    "near" cotton, this disparity is more pronounced on the one side by the decline
+                    in American on the favorable crop promise and rapid accumulation of stock here,
+                    and on the other by the extreme scarcity of tenderable Egyptian cotton in the
+                    market. In view of the speculative sentiment pervading Egypt just now it is
+                    doubt- ful if the disparity has yet reached its extremity, although it is hoped
+                    that for the sake of the Egyptian section of the spinning trade, now
+                    comparatively unfavorably situated, the Egyptian markets may soon be restored to
+                    normal and non-speculative conditions.</p>
+            </div>
+            <div type="item">
+                <head>ARMY AND NAVY.</head>
+                <p>(FROM OUR OWN CORRESPONDENT).</p>
+                <p>LONDON, November 19.</p>
+                <p>Yesterday, the S.S. Dunera left Southampton with the troops already noted in the
+                    Gazette on board for Gibraltar, Malta, and Egypt. The transport is due at
+                    Alexandria on the 1st December, where, after disembarking drafts and details,
+                    she will embark the 20th Hussars for home.</p>
+                <p>The draft of the Military Mounted Police dispatched yesterday in the Dunera under
+                    Captain Burrows for service in Egypt is the largest ever sent anywhere by the M.
+                    M. P. It consists of 67 non-commissioned officers and men. This force will
+                    largely do the duty formerly discharged by cavalry in Egypt.</p>
+                <p>Lieutenants A. W. Coxon and F. H. Moore, Royal Berkshire Regiment, doing duty
+                    respectively with the Army Pay Department at Portsmouth and the Trinidad Local
+                    Forces, have been promoted to the rank of captain. Capt. Coxon got his first
+                    commission in June, 1896, and Capt. Moore obtained his the following September.
+                    The latter officer, who has held the appointment of Staff Officer to the Trinid-
+                    ad Forces with the local rank of captain for the past eighteen months, served
+                    with the 2nd Berks-now at Alexandria-in the campaign of 1899-1901 in Orangia and
+                    Cape Colony (medal with two clasps).</p>
+                <p>The Cherwell destroyer-one of the new 25-knotters-will be paid off at Portsmouth
+                    on the 30th inst. by Commander the Hon. H. G. Brand and commissioned the
+                    following day as tender to H.M.S. Leander, depot ship for destroyers on the
+                    Mediterranean Station. The Arun will be commissioned the same day. for service
+                    in some waters.</p>
+                <p>The Army Council is of the opinion that it is desirable that the officers and men
+                    of the Royal Garrison Artillery should have a general knowledge of the
+                    characteristics of submersible boats. No doubt such knowledge would be very
+                    valuable to our gunners garrisoning forts and batteries having sea or water
+                    fronts-such as Alexandria-in time of war, when submersibles might be used for
+                    mining and other purposes.</p>
+            </div>
+            <div type="item">
+                <head>THE ASSOUAN DAM.</head>
+                <p>"F. R. S." addresses the following letter to the Times:-The official statement
+                    that the Council of Ministers in Egypt recommend the heightening of the Aswan
+                    dam shows now what is intended. None of the statements of Sir W. Preece or
+                    Colonel H. Knollys affect the two main questions. 1. Is the Kaibar cataract a
+                    suitable site for a dam, as already recom- mended by the expert of the Egyptian
+                    Govern- ment? And has information about it been suppressed, as is stated? If
+                    both replies are negative, then, 2. Will the temples which will otherwise perish
+                    (for soaking means perishing) be removed to a safe site? And is it true that an
+                    offer has been made to do that removal for its own sake, regardless of profit,
+                    and has been refused? The position appears to be that a profit of some millions
+                    a year to Egypt is anticipated from certain works; and yet a few months of that
+                    profit will not be given up in order to avoid the wreck of a large part of the
+                    standing monuments of the country. There is no question of not having the dam;
+                    but solely the necessity of placing either the dam or the monuments where
+                    destruction will be avoided.</p>
+            </div>
+            <div type="item">
+                <head>A. M. REIS.</head>
+                <p>This firm started business in Alexandria early this year, representing many most
+                    im- portant British, American, and Continental manufacturers. Their system of
+                    business, as far as regards this country, is quite a new one, as buyers are
+                    supplied on the spot directly at absolutely manufacturers' prices, for which
+                    reason an enormous saving in price is effected.</p>
+                <p>The firm's stores are one of the largest in this city, next door to the Gas
+                    Company in Cherif Pasha-street. A large stock of all kinds of merchandise is
+                    kept, including preserved tinned provisions of all kinds, tea, coffee, spices,
+                    wines, spirits, mineral waters, silver,. electro-plate, knives, forks, blocks,
+                    watches, jewelry, fancy goods of every description from the cheapest to the
+                    highest class, suitable for wedding and other presents, earthenware, soap,
+                    perfumery, disinfectants, toys, field and opera glasses, folders and spectacles;
+                    in fact, every- thing necessary for household or personal use, and we certainly
+                    advise our readers to pay an early visit to the establishment, which will amply
+                    repay the trouble.</p>
+                <p>The firm represents, as sole agents for this country and the Soudan, the Electric
+                    Construction Company, Ltd., for all descriptions of electrical plants; Messrs.
+                    Marsh Son &amp; Co., Ltd., for electrical accessories: Messrs. Joseph Hamblet,
+                    for steam pumps; the Hamblets Blue Brick Company, for blue bricks and pipes;
+                    Messrs. Burgoyne Burbidges &amp; Co., for all kinds of drugs and pharmaceutical
+                    articles Messrs. C. Topham &amp; Co., for metallic brushes Messrs. S. T. Midgley
+                    &amp; Sons, Ltd., for boots and shoes, &amp;c., &amp;c.</p>
+            </div>
+                <div type="item">
+                <p>HELOUAN SPORTING CLUB.</p>
+                <p>The following are the nominations of the two principal events of the H.S.C. races
+                    for the season 1904-1905:-</p>
+                <p>FIRST WINTER MEETING. (Saturday, 31st December, 1904.) SAHARA STAKES of P.T.
+                    13000, 2nd horse to receive P.T. 2000 and 3rd horse P.T. 1000 out of the stakes.
+                    For Maiden (at nomination) Arab ponies. Weight for age and inches with
+                    penalties, reduced 7lbs. Distance 7 furlongs.</p>
+                <p>Entry by subscription and nomination as follows:- Subscription on 1st June 1904,
+                    P.T. 200, with P.T. 200 on Nomination on 1st October 1904 and with a further
+                    charge of P.T. 200 if left in after the 1st of December 1904. Unless 20
+                    subscriptions are received the race will not be considered to have filled. H.H.
+                    Prince Mohammed Ibrahim's ch.a.p. "Selim" and "Gossa."</p>
+                <p>H.E. Moharrem Pasha Chehin's b.a.p. "Bibico," b.a.p. "Aeolus" and br.a.p.
+                    "Togo."</p>
+                <p>Ibrahim Bey Cherif's ch.a.p. "Fantasia," ch.a.p. "Jean" and "Sattam."</p>
+                <p>Saleh Bey Yaghen's b.a.p. "Munir," b.a,p, "Abou Arkoub" and b.a.p. "Nouri." Omar
+                    Bey Sultan's and Ahmed Bey El Bakri's b.a.h. "Sakaf" and g.a.h. "Kohelan Tair."
+                    Hussein Bey Sioufi's ch.a.h. "Nimrod." Mr. S. Barnard's g.a.p. "Game Chicken."
+                    Mr. Rees and Kamel Effendi's b.a.p. "Firefly." Mr. Edward Bustros' g.a.p.
+                    "Roland." Kamel Effendi Maher's ch.a.p. "Peacock."</p>
+                <p>SECOND WINTER MEETING. (Saturday, 4th February, 1905.)</p>
+                <p>HELOUAN DERBY: of P.T. 15,000, 2nd horse to receive P.T. 2,000 and 3rd horse P.T.
+                    1,000 out of the stakes. For Maiden (at nomination) Arabs. Weight for age with
+                    penalties, reduced 7lbs. Distance about 1 mile 1 furlong. Entry by subscription
+                    and nomination as follows:</p>
+                <p>Subscription on 1st June 1904, P.T. 200 with P.T. 300 on nomination 1st October
+                    1904 and with a further charge of P.T. 250 if left in after the 1st of January
+                    1905. Unless 20 subscriptions are received the race will not be considered to
+                    have filled.</p>
+                <p>H.H. Prince Mohamed Ibrahim's ch.a.p. "Selim," "Gossa" and "Moshaki."</p>
+                <p>H.E. Moharrem Pasha Chehin's g.a.h. "Jupiter," g.a.h. "Falcon" and b.a.h.
+                    "Gordius."</p>
+                <p>Saleh Bey Yaghen's g.a.h. "London," b.a.h. "Sahian" and b.a.h. "Nouri."</p>
+                <p>Omar Bey Sultan's and Ahmed Bey El Bakri's g.a.h. "Semhan el Ghemaï" and g.a.h.
+                    "Eclair."</p>
+                <p>Ibrahim Bey Cherif's g.a.h. "Plevna," g.a.h. "Arabi" and g.a.h. "Moushir."</p>
+                <p>Hussein Bey Sioufi's ch.a.h. "Beirut" and</p>
+                <p>b.a.h. "Hamdan."</p>
+                <p>Mr. V. N. Lockett's g.a.h. "Blue Rim." Ibrahim Bey Cherif and Mr. A. J.
+                    Michaelides' g.a.b. "Orion."</p>
+                <p>Captain Gilson's g.a.h. "The Clown."</p>
+                <p>Mr. Rees and Kamel Effendi's b.a.h. "Firefly." Mr. Edward Bustros' g.a.h.
+                    "Dum-Dum." Kamel Effendi Maher's g.a.h. "Social Life."</p>
+                <p>A. S. C.</p>
+                <p>Owners are reminded that nominations for the big races of the 1905 season close
+                    on</p>
+                <p>December 1st proxo.</p>
+                <p>A. S. PRESTON, Hon. Sec.</p>
+                <p>CRICKET MATCH.</p>
+                <p>During Bairam a cricket match between Cairo and Alexandria will be played.</p>
+                <p>FOOTBALL.</p>
+                <p>DEPARTMENTAL SELECT v. SAINT ANDREW's. Saint Andrew's hoped to meet the "A."
+                    Company team of the Royal Berks on Satur- day, but at the last moment the game
+                    was called off. The Departmental Corps came to the rescue, however, and put a
+                    strong team on the field at Mustapha.</p>
+                <p>Saint Andrew's kicked off and made early tracks towards Wellington, but were met
+                    by Murphy and Savage, who easily accounted for their movements. Gough got away
+                    on the left but played the ball into touch just as things looked well for his
+                    team. Clark was the first to test Wellington, putting in a beauty which
+                    Wellington cleared. The homesters now pressed and three corners in succession
+                    against Saint Andrew's looked dangerous, but Curtis was safe between the sticks.
+                    The "Saints" retaliated in brisk fashion, and Cowie looked like getting through
+                    when he tripped himself up. Both teams were showing up well at this stage and
+                    neither lot could claim much advantage. The Saints' halves were tackling and
+                    feeding well but the forwards were not able to get through the defense. By a
+                    smart break-away by the home forwards Curtis's charge was in danger but Gough
+                    spoiled a grand chance by putting the ball high over. Immediately afterwards
+                    Sanderson broke through and was only drawn up on the goal line by Keill. At this
+                    stage the homesters were playing grandly but both Bright and Krill were
+                    defending stubbornly. Just on the call of half-time Saint Andrew's had the
+                    misfortune to lose Keill, who was injured through coming into contact with
+                    Gough. Half time, no scoring.</p>
+                <p>Saint Andrew's had to resume with a re- arranged team, Curtis going forward and
+                    Cowie going back. George was placed in goal. Saint Andrew's were early in
+                    evidence and from a spirited attack they scored the first point of the game
+                    through Inman three minutes from the restart. The forwards were showing
+                    beautiful combinations now, and Hut- chins almost put his team two up with a
+                    shot, which just grazed the bar. The homesters had now put Savage forward, and
+                    he for a time gave the Saints' defense some trouble. Nixon, however, was playing
+                    a good game and kept a sharp eye on Savage. Cowie was playing well at the back,
+                    and got the ball well away when Gough looked like scoring. Savage was
+                    evidence.</p>
+            </div>
+        
+            
+                   
               
                     <pb n="6"/>
                     <div type="page" n="6">

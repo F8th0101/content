@@ -1884,12 +1884,16 @@
                 <p>Baron Sayematsu, interviewed on the subject, is of opinion that Great Britain
                     ought to do something in order to prevent a continuance of this situation.</p>
                 <p>(Reuter.)</p>
-                <p>CONFISCATION OF SS. "CHELTENHAM." CONFIRMED BY SUPREME</p>
+            </div>
+                <div type="item">
+                <head>CONFISCATION OF SS. "CHELTENHAM." CONFIRMED BY SUPREME</head>
                 <p>PRIZE COURT.</p>
                 <p>St. Petersburg, November 26. The Supreme Prize Court has confirmed the
                     confiscation of the British steamer Cheltenham.</p>
                 <p>(Reuter.)</p>
-                <p>SEDITION IN RUSSIA RIOTS AT SEVASTOPOL.</p>
+                </div>
+                <div type="item">
+                <head>SEDITION IN RUSSIA RIOTS AT SEVASTOPOL.</head>
                 <p>SEVASTOPOL, November 26. Serious riots have occurred here amongst the sailors in
                     barracks. The causes are somewhat obscure, but seditious proclamations were
                     found in the men's effects. The sailors wrecked their own quarters, and also
@@ -1909,7 +1913,10 @@
                 <p>Paris, November 26. The Chamber of Deputies has suppressed the credits for the
                     embassy to the Vatican.</p>
                 <p>(Havas.)</p>
-                <p>THE KHEDIVE. After presiding at the Council of Ministers at Abdeen Palace on
+            </div>
+                <div type="item">
+                <head>THE KHEDIVE.</head> 
+                    <p>After presiding at the Council of Ministers at Abdeen Palace on
                     Saturday, the Khedive received Prince Ibrahim Pasha Hilmy and the Orthodox
                     Coptio Patriarch in a private audience.</p>
                 <p>This morning, his Highness went to Abdeen Palace and received the Marquis
@@ -1923,6 +1930,7 @@
                 <p>This evening his Highness will give an Iftar to the Princes of the Khedivial
                     Family, the Ministers and Under-Secretaries of State, and to officials of the
                     rank of Mirmiran.</p>
+                    
                 <p>"AU DE ROUGE.”</p>
                 <p>General Drapery Establishment. (Central Tramway Station ),</p>
                 <p>CAIRO. P. PLUNKETT,</p>
@@ -1995,7 +2003,9 @@
                     Dudgeon, Mr. E. M. and Mrs. Ashley, Mr. and Mrs. F. R. Ashley, Mr. Hunter Dunn,
                     Miss Bruce, Miss Burnet, Mr. and Mrs. Lee, Rev. and Mrs. J. B. Bristow, Mr. J.
                     Priolian, Mr. W. Vincent.</p>
-                <p>MISLEADING ADVERTISEMENTS.</p>
+            </div>
+                <div type="item">
+                <head>MISLEADING ADVERTISEMENTS.</head>
                 <p>TO THE EDITOR OF THE EGYPTIAN GAZETTE.</p>
                 <p>Dear Sir,--My attention has been called to an absurdly inserted advertisement
                     appearing in a paper called L'Egypte (The Egyptian Morning News) under the
@@ -2137,7 +2147,9 @@
                     by the great respect with which they spoke of the Japanese</p>
                 <p>A number of colliers are still at Souda Bay Awaiting the arrival of more Russian
                     vessels.</p>
-                <p>THE BALTIC FLEET.</p>
+                </div>
+                <div type="item">
+                    <head>THE BALTIC FLEET.</head>
                 <p>DEPARTURE FROM SUEZ.</p>
                 <p>SHIPS COAL IN BAY.</p>
                 <p>( FROM OUR CORRESPONDENT.)</p>
@@ -2155,7 +2167,9 @@
                     on board, including women and children, numbered 1,489 of all ranks. Col. W. H.
                     Murray, 1st Battalion Royal Scots, was the officer commanding.</p>
                 <p>The homeward bound transport Sicilia was due at Port Said early this morning.</p>
-                <p>GRAND HOTEL BONNARD,</p>
+                </div>
+                <div type="item">
+                    <head>GRAND HOTEL BONNARD,</head>
                 <p>ALEXANDRIA. 8a. PER DAY, WINE INCLUDED.</p>
                 <p>22838.16.7.606</p>
                 <p>WINDSOR HOTEL.</p>
@@ -2343,7 +2357,9 @@
                     C. Lakah, Mme Steinbach, Gyouroi, Allan, A. Linin, seur M. Kindermann, Mmes
                     Marbeau, Belval, Barat, MM. Debrenne, Palan, Boyer, Hervé, Ferrat, Laby, G.
                     Bellmann, W. J, Roxburgh et 20 passagers de classe.</p>
-                <p>QUESTIONS MUNICIPALES</p>
+                </div>
+                <div type="item">
+                    <head>QUESTIONS MUNICIPALES</head>
                 <p>Règlement sur les constructions</p>
                 <p>Dispositions Sanitaires Le Dr. Gotec Lioh vient de communiquer au chef de
                     l'Administration ses observations, à propos du règlement et les
@@ -2420,7 +2436,9 @@
                     concerne l'alimentation d'eau potable et l'enlèvement des matières résiduels -
                     prescriptions essentielles qui pourtant à l'heure actuelle sont encore
                     absolument négligées dans la plupart des habitations de notre ville.</p>
-                <p>BULLETIN DE LA BOURSE</p>
+            </div>
+                    <div type="item">
+                <head>BULLETIN DE LA BOURSE</head>
                 <p>( Aujourd'hui à midi et demi )</p>
                 <p>Ainsi que nous l'avions prévu, la baisse de ces derniers jours n'a pas continué
                     longtemps. Il y a eu ce matin une reprise générale.</p>
@@ -2434,7 +2452,9 @@
                 <p>Les Cotton Mills passent de 8/6 vendeurs à 8/6 acheteurs. On vend à 8/9.</p>
                 <p>Par contre on fléchit sur l'Anglo-American Nile à 5 3/16, sur les Eaux du Caire à
                     1120 et sur la Ramleh Railway à 8 5/16.</p>
-                <p>ADMINISTRATION DES CHEMINS DE FER</p>
+                    </div>
+                    <div type="item">
+                        <head>ADMINISTRATION DES CHEMINS DE FER</head>
                 <p>DAB</p>
                 <p>Télégraphes et du Port d'Alexandrie</p>
                 <p>A VI8.</p>
@@ -2504,7 +2524,7 @@
             </div> 
             <div type="section">
                      
-                <p>Calendar of Coming Events.</p>
+                <head>Calendar of Coming Events.</head>
                 <p>ALEXANDRIA: November. Mon. 28. Zizinia Theater. Dabat of Italian opera</p>
                 <p>company in Tristan et Isaull. 9 p.m Alhambra Théatre. I Puritani, 9.16</p>
                 <p>p.m.</p>
@@ -2528,7 +2548,9 @@
                 <p>2 p.m. Fri. 96 K. 8. O. grounds. First Winter Babies.</p>
                 <p>2nd day. 2 p.m. Bat. 81 Helonan Sporting Olüb. First Winter</p>
                 <p>Races.</p>
-                <p>LONDON COMMERCIAL REPORT.</p>
+            </div>
+                    <div type="item">
+                <head>LONDON COMMERCIAL REPORT.</head>
                 <p>London, November 18. SUGAR. -The market opened steady at higher prices, but
                     towards the close a Ast tono prevailed, and quotations have declined
                     considerably. Beetroot closes with sellers of November at 148 14d, December 14.
@@ -2549,7 +2571,9 @@
                     tons Fob. March at 4. 11ja.</p>
                 <p>Negroheads : 10 ton, Cameras November and December deliveries sold at 25 974,</p>
                 <p>Peravian Ball: About 10 tons sold on the spot at 8s 6a.</p>
-                <p>MOUVEMENT MARITIME</p>
+            </div>
+                    <div type="item">
+                <head>MOUVEMENT MARITIME</head>
                 <p>DU PORT D'ALEXANDRIE</p>
                 <p>ARRIVHBB</p>
                 <p>26 novembre Constantinople et Pirée ; 48 h., vap. ang. Ismailieb,</p>
@@ -2567,7 +2591,9 @@
                 <p>1,607, A Barker &amp; Co. Gla:gow; 20 j., vap. ang. Salisbury, cap. Sharp,</p>
                 <p>ton. 1212, á Grace &amp; Co</p>
                 <p>Alexandria General Produce Association</p>
-                <p>SECTION COTONNIERE.</p>
+                    </div>
+                    <div type="item">
+                <head>SECTION COTONNIERE.</head>
                 <p>No. 157. Questionnaire de Novembre 1904 -(Prière de répondro arant le 6 décembre
                     en vous servant de la langue que vous préfére:).</p>
                 <p>1. Veuillez nous dire si la température en no. vembre a été favorable aux
@@ -2734,7 +2760,9 @@
                     ideal Sanatorium, though the name must not be taken to imply that visitors are
                     all subject, as at Davos or St. Moritz, to a severe and strict medical
                     regime.</p>
-                <p>DOAN'S BACKACHE KIDNEY PILLS.</p>
+            </div>
+                    <div type="item">
+                <head>DOAN'S BACKACHE KIDNEY PILLS.</head>
                 <p>CURE ALL FORMS OF KIDNEY AND</p>
                 <p>BLADDER DISORDER.</p>
                 <p>Have you ever considered what neglecting your kidneys means?</p>
@@ -2773,12 +2801,16 @@
                     P.T. 13 per box,</p>
                 <p>or P.T. 71 for 6 boxes ; or they may be had by I post from the general agent for
                     Egypt, Mr. Max Fischer, Hotel du Nil St., Mousky, Cairo.</p>
-                <p>NOTICE.</p>
+                    </div>
+                    <div type="item">
+                        <head>NOTICE.</head>
                 <p>The P. &amp; O 9. N. Company's Steam Yacht "VECTIS," 6,000 tona, will leave
                     Alejandris on Friday, the 9th and 80th of December for MAR SEILLES, taking Firgy
                     Saloon Perrergers only, at? the usual mail rste.</p>
                 <p>24854-4</p>
-                <p>NOTICE.</p>
+                    </div>
+                    <div type="item">
+                <head>NOTICE.</head>
                 <p>Mr P. P. Graven is the Correspondent of the Egiptian Gasotto at Oniro.</p>
                 <p>All commnnications for him should be addressed To Pension Wales, Sharif-el.
                     Manakh.</p>
@@ -2852,7 +2884,7 @@
                         <p>I am, etc.,</p>
                         <p>COMMON-SENSE. Alexandria, November 25.</p>
                         <div type="section">
-                            <p>STREET NOMENCLATURE.</p>
+                            <head>STREET NOMENCLATURE.</head>
                             <p>TO THE EDITOR OF THE EGYPTIAN GAZETTE.</p>
                             <p>Dear Sir,-In your article on “Street Nomenclature" in yesterday's
                                 issue, you are really too severe on the hard-working, fast driving
@@ -2944,7 +2976,7 @@
                     </p>
                 </div>
                 <div type="section">
-                    <p>CHEAP ADVERTISEMENTS.</p>
+                    <head>CHEAP ADVERTISEMENTS.</head>
                     <p>(Propnta.)</p>
                     <p>Under this heading advertisementa aro insertod at the tollowing
                         rates :-18 words : onco, P.T.:3, three times, P.T. 10. da tlmos,
